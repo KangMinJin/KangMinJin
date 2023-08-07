@@ -14,8 +14,4 @@
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp
 	<img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white" />
 </div>
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
-<div align="center">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinisfree&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kmj78093@gmail.com)](mailto:kmj78093@gmail.com)
