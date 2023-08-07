@@ -16,6 +16,4 @@
 </div>
 <h3 align="center">✉ Contact Me ✉</h3>
 <div align="center"><a href="mailto:kmj78093@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white" /></a></div>
-<div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KangMinJin&langs_count=10&layout=compact)](https://github.com/KangMinJin/KangMinJin)
-</div>
+﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KangMinJin&langs_count=10&layout=compact)](https://github.com/KangMinJin/KangMinJin)
