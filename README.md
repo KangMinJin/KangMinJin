@@ -16,13 +16,15 @@
 </div>
 <h3 align="center">📝 Project 📝</h3>
 <div align="center">
+	<strong>[공부 TO DO LIST 사이트]</strong>
 	<a href="https://docs.google.com/presentation/d/1ZDSYxwlllz6LYElY6TKa8JyFvBtJzbf-y1uTvuZxyFo/edit?usp=sharing">1차 프로젝트 IDI! PPT</a>
 	<br>
 	<a href="https://github.com/PHP-506-4/PHP_1STPJ">1차 프로젝트 IDI! Github</a>
 	<br>
+	<strong>[한옥 숙박 예약 사이트]</strong>
 	<a href="https://docs.google.com/presentation/d/1H9WXWvymXbXqvUr0W4tNaI7uUuX-x4-rLpo8kweZoEs/edit?usp=sharing">2차 & 3차 프로젝트 comma,nine PPT</a>
 	<br>
-	<a href="https://github.com/PHP-506-2nd-6/commanine">2차 & 3차 프로젝트 Github</a>
+	<a href="https://github.com/PHP-506-2nd-6/commanine">2차 & 3차 프로젝트 comma,nine Github</a>
 </div>
 <h3 align="center">✉ Contact Me ✉</h3>
 <div align="center"><a href="mailto:kmj78093@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white" /></a></div>
