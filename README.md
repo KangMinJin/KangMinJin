@@ -16,7 +16,7 @@
 	<img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white" />
 </div>
 <h3 align="center">📝 Mini Project 📝</h3>
-<div>
+<div align="center">
 	<a href="https://github.com/KangMinJin/PHPFULLSTACK/tree/main/mini_project2">pure php로 구현한 사이트</a>
 </div>
 <h3 align="center">📝 Team Project 📝</h3>
