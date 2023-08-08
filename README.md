@@ -15,7 +15,11 @@
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
 	<img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white" />
 </div>
-<h3 align="center">📝 Project 📝</h3>
+<h3 align="center">📝 Mini Project 📝</h3>
+<div>
+	<a href="https://github.com/KangMinJin/PHPFULLSTACK/tree/main/mini_project2">pure php로 구현한 사이트</a>
+</div>
+<h3 align="center">📝 Team Project 📝</h3>
 <div align="center">
 	<strong>[공부 TO DO LIST 사이트]</strong>
 	<br>
