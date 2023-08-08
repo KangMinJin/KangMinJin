@@ -14,7 +14,6 @@
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
 	<img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white" />
 </div>
-<h3 align="center">👩‍💻 Mini Project 👩‍💻</h3>
 <h3 align="center">📝 Team Project 📝</h3>
 <div align="center">
 	<a href="https://docs.google.com/presentation/d/1ZDSYxwlllz6LYElY6TKa8JyFvBtJzbf-y1uTvuZxyFo/edit?usp=sharing">1차 프로젝트 IDI! PPT</a>
